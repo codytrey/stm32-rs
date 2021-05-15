@@ -17,6 +17,9 @@ RCC:
       PLLSRC:
         bitOffset: 16
         bitWidth: 1
+      MCO:
+        bitOffset: 24
+        bitWidth: 4
 
 SPI1:
   SR:
